@@ -1,0 +1,33 @@
+{
+  "name": "movieapi",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldh3907/study-graphql-backend-nomadcoder-movie-api.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Lim Dong Hyun <ldh165163@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldh3907/study-graphql-backend-nomadcoder-movie-api/issues"
+  },
+  "homepage": "https://github.com/ldh3907/study-graphql-backend-nomadcoder-movie-api#readme",
+  "dependencies": {
+    "error-ex": "git+https://github.com/Qix-/node-error-ex.git"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/node": "^7.15.4",
+    "@babel/preset-env": "^7.15.6",
+    "graphql-yoga": "^1.18.3",
+    "nodemon": "^2.0.13"
+  }
+}

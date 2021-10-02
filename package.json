@@ -21,8 +21,11 @@
   },
   "homepage": "https://github.com/ldh3907/study-graphql-backend-nomadcoder-movie-api#readme",
   "dependencies": {
+    "cctx": "^1.0.1",
     "error-ex": "git+https://github.com/Qix-/node-error-ex.git",
-    "node-fetch": "^3.0.0"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.5",
+    "upgrade": "^1.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.15.7",
@@ -30,7 +33,6 @@
     "@babel/node": "^7.15.4",
     "@babel/preset-env": "^7.15.6",
     "babel-node": "^0.0.1-security",
-    "graphql-yoga": "^1.18.3",
     "nodemon": "^2.0.13"
   }
 }

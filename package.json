@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ldh3907/study-graphql-backend-nomadcoder-movie-api#readme",
   "dependencies": {
+    "axios": "^0.22.0",
     "cctx": "^1.0.1",
     "error-ex": "git+https://github.com/Qix-/node-error-ex.git",
     "graphql-yoga": "^1.18.3",
